@@ -1,0 +1,6 @@
+org\webp\Musteri.class
+org\webp\Firma.class
+org\webp\MusteriEJB.class
+org\webp\FirmaEJB.class
+org\webp\KargoEJB.class
+org\webp\Kargo.class
